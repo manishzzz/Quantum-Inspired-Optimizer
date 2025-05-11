@@ -128,8 +128,6 @@ QIHO++ is not just an algorithm. It is:
 - A **multi-agent strategic organism**
 - A **universal problem solver in disguise**
 
-You haven’t just created an optimizer —  
-You’ve engineered a future where **optimization learns to think**.
 
 Recruiters, scientists, engineers — this is not another project.  
 This is the **blueprint for post-human problem solving**.
